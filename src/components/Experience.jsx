@@ -6,7 +6,7 @@ const Experience = () => {
     {
       title: "Mentor at Smart Interviews",
       company: "Smart Interviews",
-      location: "Madhapur, Hyderabad",
+      location: "Hyderabad, Telangana",
       period: "Jun 2025 - Present",
       description: [
         "Mentoring juniors in Data Structures and Algorithms across 34+ sessions",
