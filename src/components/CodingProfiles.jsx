@@ -22,9 +22,9 @@ const CodingProfiles = () => {
       url: "https://leetcode.com/u/S_Santosh/",
       icon: <Code className="h-8 w-8" />,
       stats: {
-        solved: "450+",
-        ranking: "Top 9.63%",
-        contests: "35+"
+        solved: "600+",
+        ranking: "Top 4.17%",
+        contests: "45+"
       },
       description: "Algorithm and data structure problem solving",
       color: "from-orange-500 to-red-600"
@@ -35,9 +35,9 @@ const CodingProfiles = () => {
       url: "https://smartinterviews.in/profile/Santosh_B8",
       icon: <Trophy className="h-8 w-8" />,
       stats: {
-        score: "57000+",
+        score: "75000+",
         contests: "50+",
-        rank: "731"
+        rank: "353"
       },
       description: "Advanced Data Structures and Algorithms",
       color: "from-blue-500 to-purple-600"
