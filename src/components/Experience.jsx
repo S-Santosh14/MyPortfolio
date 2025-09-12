@@ -4,20 +4,6 @@ import { Calendar, MapPin, ExternalLink } from 'lucide-react';
 const Experience = () => {
   const experiences = [
     {
-      title: "RCI Intern",
-      company: "DRDO - RCI",
-      location: "On Site, Hyderabad",
-      period: "Sept 2025 - Present",
-      description: [
-        "Working on real-time defense-related projects at Research Centre Imarat (RCI)",
-        "Gaining hands-on experience in software development and testing for defense systems",
-        "Collaborating with scientists and engineers to contribute towards missile technologies",
-        "Enhancing technical expertise in embedded systems, simulations, and project workflows"
-      ],
-      technologies: ["C++", "Java", "Python", "Embedded Systems"],
-      link: "https://www.drdo.gov.in/labs-establishment/research-centre-imarat-rci"
-    },
-    {
       title: "Mentor at Smart Interviews",
       company: "Smart Interviews",
       location: "Hyderabad, Telangana",
